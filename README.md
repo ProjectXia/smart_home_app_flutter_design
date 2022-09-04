@@ -1,6 +1,8 @@
 # smart_home_app_flutter_design
 
-A new Flutter project.
+A new Flutter Smart Home App Design.
+
+![Project Xia](https://github.com/ProjectXia/images/blob/main/smarthomeApp.png)
 
 ## Getting Started
 
